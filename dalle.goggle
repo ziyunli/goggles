@@ -7,4 +7,4 @@
 ! avatar: #C71585
 
 $discard
-/s/*$boost=5,site=labs.openai.com
+/s^$boost=5,site=labs.openai.com
