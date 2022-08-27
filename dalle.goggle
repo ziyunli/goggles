@@ -9,8 +9,4 @@
 ! Get rid of all regular results
 $discard
 
-! Add OpenAI
-$boost=1,site=labs.openai.com
-
-! Boost
-/s/^$boost=3
+/s/$boost=5,site=labs.openai.com
