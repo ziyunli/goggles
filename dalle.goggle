@@ -1,0 +1,10 @@
+! name: DALL.E 2 
+! description: DALL.E 2 
+! public: true
+! author: Ziyun Li 
+! homepage: https://www.ziyunli.dev/
+! issues — https://github.com/ziyunli/goggles/issues
+! avatar: #C71585
+
+$discard
+/s^$boost=5,site=labs.openai.com
